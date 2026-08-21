@@ -2,7 +2,7 @@
 
 ### Mayank Singh Chouhan
 
-A structured, interview-focused Data Structures and Algorithms repository built in Java — documenting my preparation for Software Engineer roles at top product-based and MAANG-tier companies.
+A structured, interview-focused Data Structures and Algorithms repository built in Java — documenting my preparation for Software Engineer roles at top product-based and MAANG-tier companies that's why it is important.
 
 ---
 
