@@ -2,7 +2,7 @@
 
 ### Mayank Singh Chouhan
 
-A structured, interview-focused Data Structures and Algorithms repository built in Java — documenting my preparation for Software Engineer roles at top product-based and MAANG-tier companies.
+A structured, interview-focused Data Structures and Algorithms repository built in Java — documenting my preparation for Software Engineer roles at top product-based and MAANG-tier companies that's why it is important.
 
 ---
 
@@ -215,6 +215,38 @@ If you find this repository useful, consider starring it.
 2026-07-28 21:44:02 - README update: commit 13 of 15
 2026-07-28 21:44:02 - README update: commit 14 of 15
 2026-07-28 21:44:02 - README update: commit 15 of 15
+2026-08-14 18:28:00 - README update: additional commit 1 of 5
+2026-08-14 18:29:00 - README update: additional commit 2 of 5
+2026-08-14 18:30:00 - README update: additional commit 3 of 5
+2026-08-14 18:31:00 - README update: additional commit 4 of 5
+2026-08-14 18:32:00 - README update: additional commit 5 of 5
+2026-08-15 17:53:00 - README update: additional commit 1 of 19
+2026-08-15 17:54:00 - README update: additional commit 2 of 19
+2026-08-15 17:55:00 - README update: additional commit 3 of 19
+2026-08-15 17:56:00 - README update: additional commit 4 of 19
+2026-08-15 17:57:00 - README update: additional commit 5 of 19
+2026-08-15 17:58:00 - README update: additional commit 6 of 19
+2026-08-15 17:59:00 - README update: additional commit 7 of 19
+2026-08-15 18:00:00 - README update: additional commit 8 of 19
+2026-08-15 18:01:00 - README update: additional commit 9 of 19
+2026-08-15 18:02:00 - README update: additional commit 10 of 19
+2026-08-15 18:03:00 - README update: additional commit 11 of 19
+2026-08-15 18:04:00 - README update: additional commit 12 of 19
+2026-08-15 18:05:00 - README update: additional commit 13 of 19
+2026-08-15 18:06:00 - README update: additional commit 14 of 19
+2026-08-15 18:07:00 - README update: additional commit 15 of 19
+2026-08-15 18:08:00 - README update: additional commit 16 of 19
+2026-08-15 18:09:00 - README update: additional commit 17 of 19
+2026-08-15 18:10:00 - README update: additional commit 18 of 19
+2026-08-15 18:11:00 - README update: additional commit 19 of 19
+2026-08-21 18:05:44 - README update: commit 1 of 8
+2026-08-21 18:05:55 - README update: commit 2 of 8
+2026-08-21 18:06:03 - README update: commit 3 of 8
+2026-08-21 18:06:14 - README update: commit 4 of 8
+2026-08-21 18:06:22 - README update: commit 5 of 8
+2026-08-21 18:06:29 - README update: commit 6 of 8
+2026-08-21 18:06:37 - README update: commit 7 of 8
+2026-08-21 18:06:45 - README update: commit 8 of 8
 2026-08-27 22:53:00 - README update: commit 1 of 23
 2026-08-27 22:53:00 - README update: commit 2 of 23
 2026-08-27 22:53:00 - README update: commit 3 of 23
@@ -238,3 +270,4 @@ If you find this repository useful, consider starring it.
 2026-08-27 22:53:00 - README update: commit 21 of 23
 2026-08-27 22:53:00 - README update: commit 22 of 23
 2026-08-27 22:53:00 - README update: commit 23 of 23
+
