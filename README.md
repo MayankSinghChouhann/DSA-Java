@@ -103,7 +103,7 @@ Every solved problem in this repository follows a consistent format:
 | Topic | Status | Problems Solved |
 |---|---|---|
 | Java Basics | In Progress | 1 |
-| Arrays | In Progress | 4 |
+| Arrays | In Progress | 7 |
 | Strings | Not Started | 0 |
 | Hashing | Not Started | 0 |
 | Two Pointers | Not Started | 0 |
