@@ -102,8 +102,8 @@ Every solved problem in this repository follows a consistent format:
 
 | Topic | Status | Problems Solved |
 |---|---|---|
-| Java Basics | In Progress | 0 |
-| Arrays | Not Started | 0 |
+| Java Basics | In Progress | 1 |
+| Arrays | In Progress | 4 |
 | Strings | Not Started | 0 |
 | Hashing | Not Started | 0 |
 | Two Pointers | Not Started | 0 |
