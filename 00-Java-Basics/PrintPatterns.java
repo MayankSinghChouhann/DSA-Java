@@ -7,3 +7,4 @@ public class PrintPatterns {
         }
     }
 }
+// Practice: try inverted triangle and pyramid patterns next.
