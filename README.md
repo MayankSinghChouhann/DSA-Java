@@ -153,3 +153,9 @@ Java 21 · IntelliJ IDEA · Git · GitHub
 
 If you find this repository useful, consider starring it.
  
+
+---
+
+## Progress Log
+
+- **Oct 2026** - Revising Java fundamentals (data types, loops, methods) before starting Arrays in depth.
