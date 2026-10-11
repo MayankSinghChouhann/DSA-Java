@@ -23,7 +23,6 @@ This is not a dump of solutions copied from the internet. Each entry reflects my
 - Maintain daily consistency and a public log of progress
 - Produce clean, readable, production-quality code
 - Build a reusable revision resource for long-term retention
-- all set
 
 ---
 
@@ -158,4 +157,4 @@ If you find this repository useful, consider starring it.
 
 ## Progress Log
 
-- **Oct 2026** - Revising Java fundamentals (data types, loops, methods) before starting Arrays in depth.
+- **Oct 2026** - Revising Java fundamentals (data types, loops, methods) before starting Arrays in depth.- **Oct 11, 2026** - Finished Java basics practice set (loops, recursion, GCD, prime, palindrome). Next: Arrays.
