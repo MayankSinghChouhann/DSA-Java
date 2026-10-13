@@ -153,3 +153,5 @@ Java 21 · IntelliJ IDEA · Git · GitHub
 
 If you find this repository useful, consider starring it.
  
+
+- **Oct 13, 2026** - Sliding window and binary search practice.
