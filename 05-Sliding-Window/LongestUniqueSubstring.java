@@ -18,3 +18,4 @@ public class LongestUniqueSubstring {
         System.out.println(longest("abcabcbb"));
     }
 }
+// Variable-size window: jump start past the previous occurrence of a repeated char.
