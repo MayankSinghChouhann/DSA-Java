@@ -13,3 +13,4 @@ public class SqrtBinarySearch {
         System.out.println(sqrt(50));
     }
 }
+// Use long for mid * mid to avoid int overflow. Time: O(log x).
