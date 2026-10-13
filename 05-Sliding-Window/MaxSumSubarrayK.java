@@ -14,3 +14,4 @@ public class MaxSumSubarrayK {
         System.out.println(maxSum(new int[]{2, 1, 5, 1, 3, 2}, 3));
     }
 }
+// Fixed-size window: slide by adding the new element and removing the old one. O(n).
