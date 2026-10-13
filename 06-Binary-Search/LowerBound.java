@@ -12,3 +12,4 @@ public class LowerBound {
         System.out.println(lowerBound(new int[]{1, 2, 4, 4, 7}, 4));
     }
 }
+// Returns the first index with a[i] >= target, or a.length if none exists.
