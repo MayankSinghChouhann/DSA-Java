@@ -17,3 +17,4 @@ public class DetectCycle {
         System.out.println(hasCycle(a));
     }
 }
+// Floyd tortoise and hare: if a cycle exists the fast pointer eventually meets the slow one.
