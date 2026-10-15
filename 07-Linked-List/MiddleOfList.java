@@ -17,3 +17,4 @@ public class MiddleOfList {
         System.out.println(middle(head).val);
     }
 }
+// For even length lists this returns the second middle node.
