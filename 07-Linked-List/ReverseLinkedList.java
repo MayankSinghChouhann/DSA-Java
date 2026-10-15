@@ -19,3 +19,4 @@ public class ReverseLinkedList {
         for (Node n = reverse(head); n != null; n = n.next) System.out.print(n.val + " ");
     }
 }
+// Three pointers: prev, curr, next. Time O(n), Space O(1).
