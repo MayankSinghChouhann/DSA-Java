@@ -18,3 +18,4 @@ public class MergeSortedLists {
         for (Node n = merge(a, b); n != null; n = n.next) System.out.print(n.val + " ");
     }
 }
+// Dummy head node removes special handling for the first element.
