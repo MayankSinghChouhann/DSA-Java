@@ -157,4 +157,4 @@ If you find this repository useful, consider starring it.
 
 ## Progress Log
 
-- **Oct 2026** - Revising Java fundamentals (data types, loops, methods) before starting Arrays in depth.- **Oct 11, 2026** - Finished Java basics practice set (loops, recursion, GCD, prime, palindrome). Next: Arrays.
+- **Oct 2026** - Revising Java fundamentals (data types, loops, methods) before starting Arrays in depth.- **Oct 11, 2026** - Finished Java basics practice set (loops, recursion, GCD, prime, palindrome). Next: Arrays.- **Oct 17, 2026** - Started Arrays and Strings problems: second largest, missing number, anagram.
