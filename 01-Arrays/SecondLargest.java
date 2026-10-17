@@ -12,3 +12,4 @@ public class SecondLargest {
         System.out.println(secondLargest(new int[]{12, 35, 1, 10, 34, 1}));
     }
 }
+// Time: O(n), Space: O(1) - single pass, no sorting needed.
