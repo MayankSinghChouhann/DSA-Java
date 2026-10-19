@@ -14,3 +14,4 @@ public class FirstUnique {
         System.out.println(firstUnique("leetcode"));
     }
 }
+// Returns -1 when every character repeats.
