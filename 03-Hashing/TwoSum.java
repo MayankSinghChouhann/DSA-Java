@@ -17,3 +17,4 @@ public class TwoSum {
         System.out.println(Arrays.toString(twoSum(new int[]{2, 7, 11, 15}, 9)));
     }
 }
+// Brute force: O(n^2). Hash map approach: O(n) time, O(n) space.
