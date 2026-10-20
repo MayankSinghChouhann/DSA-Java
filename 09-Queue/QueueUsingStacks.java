@@ -18,3 +18,4 @@ public class QueueUsingStacks {
         System.out.println(q.dequeue() + " " + q.dequeue());
     }
 }
+// Amortized O(1) per operation: each element moves between stacks at most once.
