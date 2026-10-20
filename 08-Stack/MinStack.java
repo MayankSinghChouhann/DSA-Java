@@ -22,3 +22,4 @@ public class MinStack {
         System.out.println(s.getMin());
     }
 }
+// A second stack tracks the running minimum so getMin stays O(1).
