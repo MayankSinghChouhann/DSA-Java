@@ -157,3 +157,5 @@ If you find this repository useful, consider starring it.
 - **Oct 13, 2026** - Sliding window and binary search practice.
 
 - **Oct 15, 2026** - Linked list set: reverse, middle, cycle, merge, remove nth.
+
+- **Oct 20, 2026** - Stack and queue implementations and monotonic stack.
