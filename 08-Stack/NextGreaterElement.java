@@ -18,3 +18,4 @@ public class NextGreaterElement {
         System.out.println(Arrays.toString(nextGreater(new int[]{4, 5, 2, 25})));
     }
 }
+// Monotonic decreasing stack of indices. Each element is pushed and popped once: O(n).
