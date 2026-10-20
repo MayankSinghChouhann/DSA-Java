@@ -24,3 +24,4 @@ public class CircularQueue {
         System.out.println(q.poll());
     }
 }
+// Modulo arithmetic wraps the index so no elements need shifting.
