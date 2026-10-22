@@ -13,3 +13,4 @@ public class ValidBST {
         System.out.println(isValid(root, Long.MIN_VALUE, Long.MAX_VALUE));
     }
 }
+// Pass long bounds so Integer.MIN_VALUE and MAX_VALUE nodes are handled correctly.
