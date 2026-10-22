@@ -159,3 +159,5 @@ If you find this repository useful, consider starring it.
 - **Oct 15, 2026** - Linked list set: reverse, middle, cycle, merge, remove nth.
 
 - **Oct 20, 2026** - Stack and queue implementations and monotonic stack.
+
+- **Oct 22, 2026** - Trees and BST: traversals, height, level order, validate BST, LCA.
