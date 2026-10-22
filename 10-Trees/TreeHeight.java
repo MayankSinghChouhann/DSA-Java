@@ -12,3 +12,4 @@ public class TreeHeight {
         System.out.println(height(root));
     }
 }
+// Height here counts nodes on the longest root-to-leaf path.
