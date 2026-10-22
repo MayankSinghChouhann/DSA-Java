@@ -27,3 +27,4 @@ public class LevelOrder {
         levelOrder(root);
     }
 }
+// BFS: take q.size() at the start of each level to process one level at a time.
