@@ -17,3 +17,4 @@ public class LowestCommonAncestor {
         System.out.println(lca(root, 2, 8).val);
     }
 }
+// BST property lets us walk down in O(h) without recursion.
