@@ -12,3 +12,5 @@ public class Kadane {
         System.out.println(maxSubarray(new int[]{-2, 1, -3, 4, -1, 2, 1, -5, 4}));
     }
 }
+// Idea: at each index decide to extend the running subarray or start fresh.
+// Time: O(n), Space: O(1).
